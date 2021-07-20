@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Grid Item test should show the component correctly 1`] = `
+<div
+  className="card animate_animated animate__fadeIn"
+>
+  <h3>
+    Messi champeon
+  </h3>
+  <img
+    alt="Messi champeon"
+    src="https://test.com"
+  />
+</div>
+`;
